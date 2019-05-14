@@ -253,6 +253,7 @@ figure figcaption {
 }
 @media screen and (max-width: 768px) {
   #fh5co-main {
+    margin-top: 50px;
     width: 100%;
   }
 }
@@ -264,8 +265,12 @@ figure figcaption {
 }
 @media screen and (max-width: 768px) {
   #fh5co-main .fh5co-narrow-content {
+    margin-top: 50px;
     width: 100%;
     padding: 3.5em 1em;
+  }
+  .fh5co-gallery{
+    margin-top: 35px;
   }
 }
 
@@ -541,6 +546,9 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   background: #003f72;
 }
 @media screen and (max-width: 768px) {
+  #fh5co-main{
+    margin-top:
+  }
   .fh5co-cards {
     padding: 1em 0;
   }
@@ -1197,6 +1205,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 }
 @media screen and (max-width: 768px) {
   .fh5co-nav-toggle {
+    background-color: #337ab7;
     opacity: 1;
     visibility: visible;
   }
